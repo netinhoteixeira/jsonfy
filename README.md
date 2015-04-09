@@ -18,3 +18,13 @@ if ($jsonfy->hasCallback()) {
 // 123({"sample": "value"})
 ?>
 ```
+
+#### Downloads
+
+* [First version - jsonfy-0.1.zip](https://drive.google.com/file/d/0B6XrugzJ_5IgUDltOU9mQlJOUEU/view?usp=sharing "First version of library.")
+
+#### Links
+
+* [JSON](http://www.json.org/)
+* [jQuery](http://jquery.com/)
+* [jQuery.getJSON](http://api.jquery.com/jQuery.getJSON/)
